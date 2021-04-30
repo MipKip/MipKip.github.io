@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to MipKip Pages
 
-You can use the [editor on GitHub](https://github.com/MipKip/MipKip.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+MipKipアプリをご利用ありがとうございます。趣味で作っているので、不便な点もあると思いますが、気に入ったら使ってみてください。古いアプリは放置してますが需要あれば更新しますね。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### プライバシーポリシー
 
-```markdown
-Syntax highlighted code block
+[ 利用者情報の取得 ] 
+本アプリが利用者の個人情報を取得することはありません。 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+[ 利用者情報の利用 ] 
+本アプリが利用者の個人情報を利用することはありません。 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+[ 利用者情報の第三者提供 ] 
+本アプリが利用者の個人情報を第三者へ提供することはありません。 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+[ 使用ツール ] 
+本アプリでは、広告配信ツールとしてAdMob(Google Inc.)を使用しており、AdMobが利用者の情報を自動取得する場合があります。 取得する情報、利用目的、第三者への提供等につきましては、広告配信事業者のアプリケーション・プライバシーポリシーよりご確認ください。 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MipKip/MipKip.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[ お問い合わせ先 ] 
+何かご不明な点がございましたら下記からお問い合わせください。 
+Mail: [mipkip10@gmail.com](mailto:mipkip10@gmail.com)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/mip_kip.svg?style=social&label=Follow)](https://twitter.com/mip_kip)
