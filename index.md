@@ -20,6 +20,6 @@ MipKipアプリをご利用ありがとうございます。趣味で作って�
 
 [ お問い合わせ先 ]  
 何かご不明な点がございましたら下記からお問い合わせください。  
-Mail: [mipkip10@gmail.com](mailto:mipkip10@gmail.com)  
+Mail: [support@mipkip.com](mailto:support@mipkip.com)  
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/mip_kip.svg?style=social&label=Follow)](https://twitter.com/mip_kip)
 
